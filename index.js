@@ -71,8 +71,6 @@ const vaxTril = (elm)=>{
     
 
 
-   
-
 
 
 vaxTril({name: 'Ariful Islam', age: 32, tempareture: 89});
