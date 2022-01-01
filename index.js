@@ -1,38 +1,4 @@
-// const vaxTrail = (obj) => {
-//   const A = []
-//   const B = []
-//   const C = []
-//   const D = []
-// //   switch (obj) {
-// //     case obj.age >= 20 :
-// //       totalPerson.a.push(obj);
-// //       break;
 
-// //     default:
-// //       console.log("Sorry you are not saticfited this vacsin");
-// //   }
-
-// if(obj && obj.age >=20 && obj.age <= 30){
-//     A.push(obj)
-// }
-// if(obj && obj.age >=31 && obj.age <= 40){
-//     B.push(obj)
-// }
-// if(obj && obj.age >=41 && obj.age <= 50){
-//     C.push(obj)
-// }
-
-// return totalPerson  = {A:A, B:B,C:C, D:D}
-
-// };
-
-// const person = new vaxTrail();
-
-
-// person({ name: "Sunil", age: 20, temperature: 94 });
-// person({ name: "Sunil", age: 32, temperature: 94 });
-// person({ name: "Sunil", age: 35, temperature: 94 })
-// console.log(person);
 
 class Stack  {
     constructor(){
